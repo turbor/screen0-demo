@@ -1,0 +1,34 @@
+When looking for a new fun project on the MSX I realized that almost nobody uses the MSX2 screen 0.
+
+So maybe it is time to create a tribute to this underused screen 0 
+
+Welcome to this screen 0 tribute
+
+Most MSX users will know that screen 0 is character based screen mode.
+And it is mostly used for texteditors, music composing programs or by most people for entering Basic programs.
+
+But trying to explain a character based screen mode to ordinary people will make them think of fancy hacker movie scene were some protagonist guesses the password just in time. 
+
+Or they start thinking about the Matrix character rain.
+
+Maybe we could create a game like River Raid in screen 0
+But that would introduce extra code like userinput and some decent gameplay routine so let's skip game programming for now.
+
+Of course you migh thave noticed by now that everything moves one character at a time.
+This is because it is extremly hard to make something like a smoothscroll
+And if you would create somethin like a smoothscrool it is porbably only possible for one line 
+or maybe not. We could ofcourse scroll the same line of text on all lines
+It also isn't verry likely that a programmer can introduce an extra scroll direction.
+Or introduce some extra big scroller in front of the little scroller.
+
+It might even be possible to create some metablobs in screen 0.
+
+Or recreate one of those timeless classical effects in old skool demos like the fire routine
+
+Or even rotating text with motion blur.
+
+Or the good old rotazoomer.
+
+This demo will relaunch in 10,9,8,7,6,5,4,3,2,1
+
+
